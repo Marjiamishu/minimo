@@ -1,1 +1,3 @@
-# minimo
+minimo
+
+https://marjiamishu.github.io/minimo/
